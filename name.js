@@ -1,3 +1,3 @@
 {
-fucntion print {"hello wold"}       
+fucntion print(hello,AudioWorkletNode)       
 }
