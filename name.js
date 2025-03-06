@@ -1,3 +1,0 @@
-{
-fucntion print(hello,AudioWorkletNode)       
-}
